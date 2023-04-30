@@ -40,6 +40,11 @@ I have used all the offline dataset preprocessing for this [kaggle dataset](http
 
 - Visuvalize - ```python predict.py --model ./checkpoints/checkpoint_epoch100.pth -i ./data/imgs/0.jpg --viz --output ./0_OUT.jpg```
 
+- You can use utils/blending.py to create blended image
+![original](.\\asset\\0.jpg)
+![predicted](.\\asset\\0_OUT.jpg)
+![blended](.\\asset\\blended_image.jpg)
+
 **Colab NoteBook**
 
 - [Link](https://colab.research.google.com/drive/1aM2VOqfhwo84zSe-MS_i2JyWO8bgouqD?usp=sharing)
