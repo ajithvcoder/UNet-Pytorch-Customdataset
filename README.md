@@ -42,9 +42,14 @@ I have used all the offline dataset preprocessing for this [kaggle dataset](http
 
 - You can use utils/blending.py to create blended image
 
-<img src="./asset/0.jpg"  width="150" height="100">
-<img src="./asset/0_OUT.jpg"  width="150" height="100">
-<img src="./asset/blended_image.jpg"  width="150" height="100">
+Image and mask
+
+<img src="./asset/0.jpg"  width="250" height="150">
+<img src="./asset/0_OUT.jpg"  width="250" height="150">
+
+Blended Segmentation : 
+
+<img src="./asset/blended_image.jpg"  width="250" height="150">
 
 
 **Colab NoteBook**
